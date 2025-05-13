@@ -74,8 +74,8 @@ This simulation acts as a sandbox for evaluating the practical applications and 
     <td><img src="images/results/result_2.png" alt="Result 2" width="500"></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="images/results/result_3.png" alt="Result 3" width="300"></td>
-    <td colspan="2"><img src="images/results/result_4.png" alt="Result 4" width="300"></td>
+    <td ><img src="images/results/result_3.png" alt="Result 3" width="400"></td>
+    <td ><img src="images/results/result_4.png" alt="Result 4" width="400"></td>
   </tr>
 </table>
 
