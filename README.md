@@ -29,6 +29,14 @@ This simulation acts as a sandbox for evaluating the practical applications and 
 - **Evaluation Metrics**: Shoot Attempts, Goal Keeper Save Count, elapsed time
 
 ---
+## Flowchart and Design
+<table>
+  <tr>
+    <td><img src="images/screenshots/Flowchart.png" alt="Flowchart" width="400"></td>
+    <td><img src="images/screenshots/Design.png" alt="Design" width="400"></td>
+  </tr>
+</table>
+
 
 ## 📸 Screenshots
 
@@ -40,10 +48,6 @@ This simulation acts as a sandbox for evaluating the practical applications and 
   <tr>
     <td><img src="images/screenshots/InGame1.png" alt="In Game 1" width="400"></td>
     <td><img src="images/screenshots/InGame2.png" alt="In Game 2" width="400"></td>
-  </tr>
-  <tr>
-    <td><img src="images/screenshots/InGame3.png" alt="In Game 3" width="400"></td>
-    <td><img src="images/screenshots/InGame4.png" alt="In Game 4" width="400"></td>
   </tr>
 </table>
 
@@ -71,6 +75,7 @@ This simulation acts as a sandbox for evaluating the practical applications and 
   </tr>
   <tr>
     <td colspan="2"><img src="images/results/result_3.png" alt="Result 3" width="400"></td>
+    <td colspan="2"><img src="images/results/result_4.png" alt="Result 4" width="400"></td>
   </tr>
 </table>
 
@@ -81,7 +86,6 @@ This simulation acts as a sandbox for evaluating the practical applications and 
 <p>Watch the full simulation demo here:</p>
 
 <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Watch the Demo" width="600">
 </a>
 
 <p><i>Click the image above to watch on YouTube.</i></p>
