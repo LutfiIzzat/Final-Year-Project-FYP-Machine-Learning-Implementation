@@ -85,10 +85,7 @@ This simulation acts as a sandbox for evaluating the practical applications and 
 
 <p>Watch the full simulation demo here:</p>
 
-<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-</a>
-
-<p><i>Click the image above to watch on YouTube.</i></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZnqNK_oGiNw?si=f-b3k5n3XhJ_TYRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## ⚙️ Tech Stack
