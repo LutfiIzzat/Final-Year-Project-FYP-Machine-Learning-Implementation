@@ -30,6 +30,63 @@ This simulation acts as a sandbox for evaluating the practical applications and 
 
 ---
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td><img src="images/screenshots/MainMenu.png" alt="Main Menu" width="400"></td>
+    <td><img src="images/screenshots/EndScreen.png" alt="End Screen" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="images/screenshots/InGame1.png" alt="In Game 1" width="400"></td>
+    <td><img src="images/screenshots/InGame2.png" alt="In Game 2" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="images/screenshots/InGame3.png" alt="In Game 3" width="400"></td>
+    <td><img src="images/screenshots/InGame4.png" alt="In Game 4" width="400"></td>
+  </tr>
+</table>
+
+---
+## 📈 Learning Curves
+
+<table>
+  <tr>
+    <td><img src="images/learning_curves/goal_scoring.png" alt="Goal Scoring Curve" width="400"></td>
+    <td><img src="images/learning_curves/ball_possession.png" alt="Ball Possession Curve" width="400"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="images/learning_curves/positioning.png" alt="Positioning Curve" width="400"></td>
+  </tr>
+</table>
+
+---
+
+## 🧪 Results
+
+<table>
+  <tr>
+    <td><img src="images/results/result_1.png" alt="Result 1" width="400"></td>
+    <td><img src="images/results/result_2.png" alt="Result 2" width="400"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="images/results/result_3.png" alt="Result 3" width="400"></td>
+  </tr>
+</table>
+
+---
+
+## 🎥 Demo Video
+
+<p>Watch the full simulation demo here:</p>
+
+<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Watch the Demo" width="600">
+</a>
+
+<p><i>Click the image above to watch on YouTube.</i></p>
+
+
 ## ⚙️ Tech Stack
 
 - **Game Engine**: Unity 2022.3.17f1
