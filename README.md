@@ -32,8 +32,8 @@ This simulation acts as a sandbox for evaluating the practical applications and 
 ## Flowchart and Design
 <table>
   <tr>
-    <td><img src="images/screenshots/Flowchart.png" alt="Flowchart" width="400"></td>
-    <td><img src="images/screenshots/Design.png" alt="Design" width="400"></td>
+    <td><img src="images/screenshots/Flowchart.png" alt="Flowchart" width="300"></td>
+    <td><img src="images/screenshots/Design.png" alt="Design" width="300"></td>
   </tr>
 </table>
 
@@ -70,12 +70,12 @@ This simulation acts as a sandbox for evaluating the practical applications and 
 
 <table>
   <tr>
-    <td><img src="images/results/result_1.png" alt="Result 1" width="400"></td>
-    <td><img src="images/results/result_2.png" alt="Result 2" width="400"></td>
+    <td><img src="images/results/result_1.png" alt="Result 1" width="500"></td>
+    <td><img src="images/results/result_2.png" alt="Result 2" width="500"></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="images/results/result_3.png" alt="Result 3" width="400"></td>
-    <td colspan="2"><img src="images/results/result_4.png" alt="Result 4" width="400"></td>
+    <td colspan="2"><img src="images/results/result_3.png" alt="Result 3" width="300"></td>
+    <td colspan="2"><img src="images/results/result_4.png" alt="Result 4" width="300"></td>
   </tr>
 </table>
 
