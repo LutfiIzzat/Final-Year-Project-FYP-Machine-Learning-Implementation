@@ -86,6 +86,10 @@ This simulation acts as a sandbox for evaluating the practical applications and 
 <p>Watch the full simulation demo here:</p>
 https://www.youtube.com/embed/ZnqNK_oGiNw?si=f-b3k5n3XhJ_TYRM
 
+## Source Code
+
+Sorry, the code could not be uploaded due to my git LFS has reached its limit, hit me up if you're interested!
+
 
 ## ⚙️ Tech Stack
 
