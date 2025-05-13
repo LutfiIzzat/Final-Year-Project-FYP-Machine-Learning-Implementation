@@ -84,8 +84,7 @@ This simulation acts as a sandbox for evaluating the practical applications and 
 ## 🎥 Demo Video
 
 <p>Watch the full simulation demo here:</p>
-
-<a href="https://www.youtube.com/embed/ZnqNK_oGiNw?si=f-b3k5n3XhJ_TYRM" target="_blank">
+https://www.youtube.com/embed/ZnqNK_oGiNw?si=f-b3k5n3XhJ_TYRM
 
 
 ## ⚙️ Tech Stack
